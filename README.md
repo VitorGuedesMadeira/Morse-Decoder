@@ -47,12 +47,17 @@ $ git clone git@github.com:mavericks-db/morse-decoder.git
 
 Kindly modify the files as needed.
 
-## Author
+## Authors
 
 👤 **Vitor Guedes Madeira**
 - GitHub: [@vitorguedesmadeira](https://github.com/VitorGuedesMadeira)
 - Twitter: [@CDahguedes](https://twitter.com/CDahguedes)
 - LinkedIn: (https://www.linkedin.com/in/vitor-guedes-madeira/)
+
+👤 **Williams Colmenares**
+- GitHub: [@williamscch](https://github.com/williamscch)
+- Twitter: [@wdavidcch](https://twitter.com/wdavidcch)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/williamscolmenaresch/)
 
 ## 🤝 Contributing
 
