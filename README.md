@@ -40,7 +40,7 @@ Clone the repository using the GitHub link provided below.
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone git@github.com:mavericks-db/morse-decoder.git
+$ git clone git@github.com:VitorGuedesMadeira/Morse-Decoder.git
 ```
 
 ### Usage
@@ -63,7 +63,7 @@ Kindly modify the files as needed.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mavericks-db/morse-decoder/issues).
+Feel free to check the [issues page](hhttps://github.com/VitorGuedesMadeira/Morse-Decoder/issues).
 
 ## Show your support
 
