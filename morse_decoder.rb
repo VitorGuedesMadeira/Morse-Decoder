@@ -71,7 +71,7 @@ def decode(sentence)
   sentence_decode.strip
 end
 
-# Test
+# Tests
 p decode_char('-...') #=> B
 p decode_word('-- -.--') # => MY
 p decode('-- -.--   -. .- -- .') # => MY NAME
